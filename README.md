@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Error 404 PAge}</h1>
+<h1 align="center">{Error 404 Page}</h1>
 
 
 
@@ -17,7 +17,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 
@@ -27,13 +27,6 @@
 ## Overview
 
 ![screenshot](https://github.com/CodeurApprenti/Error-404/blob/master/img/overview.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
@@ -49,5 +42,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website En construction 
-- GitHub [@your-username](https://{github.com/CodeurApprenti})
-- Twitter [@your-twitter](https://{twitter.com/CodeurApprenti})
+- GitHub [@CodeurApprenti](https://{github.com/CodeurApprenti})
+- Twitter [@CodeurApprenti](https://{twitter.com/CodeurApprenti})
